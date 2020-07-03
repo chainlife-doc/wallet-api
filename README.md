@@ -1,6 +1,6 @@
 # lightwallet-api
 
-## AEX接口
+## 时代区块链接口
 
 ### 通用
 
